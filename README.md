@@ -1,0 +1,2 @@
+# DigitalClaimApplication
+DigitalClaimApplication .NetCore
